@@ -1,0 +1,6 @@
+NET "a1" LOC = "N3";
+NET "b1" LOC = "E2";
+NET "cin1" LOC = "F3";
+
+NET "sum" LOC = "G1";
+NET "co1" LOC = "P4";
